@@ -1,0 +1,29 @@
+Data Preprocessing:
+First, I loaded the dataset into a Pandas DataFrame and checked for missing values. I also dropped columns that were not required for analysis. I converted the dates to pandas datetime format to facilitate time series analysis.
+
+Basic Summary Statistics:
+I started by examining some basic summary statistics such as the number of attacks, total fatalities, and injuries. The dataset contains information about 181691 terrorist attacks, resulting in over 400,000 deaths and 800,000 injuries. The average number of deaths per attack is 2.4, while the average number of injuries is 3.3.
+
+Terrorism by Year:
+I examined the number of terrorist attacks over the years, which indicated a significant increase in terrorist activities from 2000 to 2014, with a peak in 2014. The number of terrorist attacks then declined slightly between 2014 and 2017.
+
+Terrorism by Region:
+I analyzed the regions most affected by terrorist attacks. The Middle East and North Africa (MENA) region has the highest number of terrorist attacks, followed by South Asia and Sub-Saharan Africa.
+
+Types of Attack:
+I investigated the types of attacks used in terrorist activities. Bombing/explosion was found to be the most commonly used attack method, followed by armed assault and assassination.
+
+Terrorist Groups:
+I examined the most active terrorist groups worldwide. The Taliban, Islamic State of Iraq and the Levant (ISIL), and Boko Haram were found to be the most active groups.
+
+Hot Zones of Terrorism:
+Finally, I analyzed the countries most affected by terrorism. Iraq, Pakistan, and Afghanistan were found to be the countries most affected by terrorism, followed by India, Nigeria, and Syria.
+
+Insights:
+
+The number of terrorist attacks worldwide has increased significantly over the years, with a peak in 2014.
+The MENA region is the most affected by terrorism, followed by South Asia and Sub-Saharan Africa.
+Bombing/explosion is the most commonly used attack method, followed by armed assault and assassination.
+The Taliban, ISIL, and Boko Haram are the most active terrorist groups worldwide.
+Iraq, Pakistan, and Afghanistan are the countries most affected by terrorism.
+As a security/defense analyst, this information is valuable in identifying hot zones of terrorism and taking proactive measures to combat terrorism. It is also essential to understand the types of attacks used and the most active terrorist groups to develop effective counter-terrorism strategies
